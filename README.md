@@ -1,4 +1,4 @@
-# ⌚ Rolex-Inspired Luxury Watch Webpage
+# ⌚ Rolex Luxe – Premium Watch Landing Page
 
 A sleek, modern, and elegant **Rolex-style landing page** for luxury watches. Built with high-quality visuals, smooth animations, and a minimalist layout to deliver a premium web experience.
 
