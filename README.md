@@ -1,3 +1,22 @@
-# ROLEX-WEB_Clone
+# ⌚ Rolex-Inspired Luxury Watch Webpage
 
-This repository contains the front-end code for the ROLEX-WEB_Clone, a replica of the official Rolex website. The project was built to practice responsive web design and front-end development using HTML, CSS, and JavaScript.
+A sleek, modern, and elegant **Rolex-style landing page** for luxury watches. Built with high-quality visuals, smooth animations, and a minimalist layout to deliver a premium web experience.
+
+---
+
+## ✨ Features
+
+* ✅ **Elegant UI** – Inspired by the aesthetics of top-tier luxury brands
+* ✅ **Responsive Design** – Looks perfect on desktop, tablet, and mobile
+* ✅ **Smooth Animations** – Clean transitions and hover effects
+* ✅ **Interactive Product Cards** – Dynamic and engaging user experience
+* ✅ **Minimalist Navigation** – Simple, intuitive user flow
+
+---
+
+## 🛠 Technologies Used
+
+* **HTML** – Semantic structure & layout
+* **CSS** – Custom styling, animations, and responsiveness
+
+---
